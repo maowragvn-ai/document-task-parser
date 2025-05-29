@@ -1,4 +1,4 @@
-# 📄 vantage-document-parser
+# 📄 document-task-parser
 
 An open-source **Document Parser** application that leverages:
 
