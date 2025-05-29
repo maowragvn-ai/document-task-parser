@@ -221,6 +221,32 @@ make logs-prod
 
 ---
 
+## Future Improvements
+
+* [ ] **Amazone AWS s3 storage**: Integrate with Amazon S3 for document storage.
+* [ ] **Streamlit UI**: Enhance the Streamlit UI for a more user-friendly experience.
+* [ ] **Testing**: Add comprehensive testing for the application.
+* [x] **CI/CD**: Set up CI/CD pipelines for automated testing and deployment.
+* [x] **Monitoring**: Implement monitoring and logging for better observability.
+* [ ] **Security**: Enhance security measures, including authentication and authorization.
+
+---
+
+## 📚 References
+
+### Libraries and Frameworks:
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Streamlit](https://streamlit.io/)
+- [Celery](https://docs.celeryq.dev/en/stable/)
+- [Alembic](https://alembic.sqlalchemy.org/en/latest/)
+- [LLama Index](https://github.com/jerryjliu/llama_index)
+- [Google Gen AI](https://github.com/googleapis/python-genai)
+### Opensource Projects:
+- [kotaemon](https://github.com/Cinnamon/kotaemon)
+- [Markitdown](https://github.com/microsoft/markitdown)
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions of all kinds!
